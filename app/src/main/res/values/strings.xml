@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">TCP测试</string>
+    <string name="app_title">QDWZ</string>
+    <string name="app_subtitle">MT-20</string>
+    <string name="tv_connect">连接</string>
+    <string name="tv_save">存储</string>
+    <string name="headTextView">无治智能科技</string>
+    <string name="tvIp">本机IP:</string>
+    <string name="ipHint">这里是IP地址</string>
+    <string name="menu_net_title">智能配网</string>
+    <string name="menu_address_title">地址选择</string>
+    <string name="menu_language_title">语言</string>
+    <string name="menu_about_title">关于</string>
+    <string name="lineChart_label1">电流显示</string>
+    <string name="lineChart_label2">电压显示</string>
+    <string name="tv_voltage_title">输出电压(V)</string>
+    <string name="tv_current_title">输出电流(A)</string>
+    <string name="tv_power_title">输出功率(W)</string>
+    <string name="tv_energy_title">能量(WH)</string>
+    <string name="tv_capacity_title">容量(AH)</string>
+    <string name="tv_writeTime_title">记录时间</string>
+    <string name="btnTextStart">开始</string>
+    <string name="btnTextStop">暂停</string>
+    <string name="btnTextClear">清除</string>
+    <string name="setUTitle">U_SET:</string>
+    <string name="setITitle">I_SET:</string>
+    <string name="ovpTitle">OVP:</string>
+    <string name="ocpTitle">OCP:</string>
+    <string name="inputVoltageTitle">输入电压(V):</string>
+    <string name="bootTimeTitle">开机时间:</string>
+    <string-array name="language">
+        <item>简体中文</item>
+        <item>English</item>
+    </string-array>
+    <string name="language_label">语言</string>
+    <string name="about_label">关于我们</string>
+    <string name="address_dialog_title">从机地址</string>
+    <string name="positiveButton">确定</string>
+    <string name="negativeButton">取消</string>
+
+    <string name="ssid_title">WiFi名称: </string>
+    <string name="bssid_title">Mac地址: </string>
+    <string name="password_title">WiFi密码: </string>
+    <string name="device_count_title">设备数量: </string>
+    <string name="package_broadcast">广播</string>
+    <string name="package_multicast">组播</string>
+    <string name="confirm">确认</string>
+    <string name="wifi_5g_message">设备不支持 5G Wifi, 请确认当前连接的 Wifi 为 3G 4G</string>
+    <string name="location_disable_message">位置信息(GPS)不可用</string>
+    <string name="no_wifi_connection">没有 Wifi 连接</string>
+    <string name="configure_wifi_change_message">Wifi 已断开或发生了变化</string>
+    <string name="configuring_message"> 正在执行配网, 请稍等片刻…</string>
+    <string name="configure_result_failed"> 配网失败</string>
+    <string name="configure_result_failed_port">建立配网任务失败, 端口可能被其他程序占用</string>
+    <string name="configure_result_success">配网完成</string>
+    <string name="configure_result_success_item">BSSID = %1$s, 地址 = %2$s</string>
+</resources>

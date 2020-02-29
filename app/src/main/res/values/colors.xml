@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F6F7F7</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBackground">#000000</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="btnAddTextBackground">#9b9b9b</color>
+    <color name="colorYellow">#dfdf22</color>
+    <color name="colorBlueBackground">#1ce1e0</color>
+    <color name="colorViolet">#e11ae1</color>
+    <color name="colorRed">#f31010</color>
+    <color name="colorGreen">#5ede2c</color>
+    <color name="colorBlueFont">#30c7f4</color>
+    <color name="colorHeadBackground">#ECEBEB</color>
+    <color name="wifiFont">#1F1F1F</color>
+    <color name="wifiBtnBackground">#C6C6C6</color>
+</resources>
